@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569214898504",
+    "project_id": "backend43-6f184",
+    "storage_bucket": "backend43-6f184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569214898504:android:2c58bd28a074a5d849237d",
+        "android_client_info": {
+          "package_name": "com.example.baraa_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTD1-4q7zeyR8b9GFNO_60oA_D1uHYPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
